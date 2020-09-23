@@ -1,2 +1,2 @@
-# Delivery-Receipt
-DR
+# Delivery Receipt
+ DR
